@@ -1,0 +1,92 @@
+﻿.CssAdapterMenu ul.AspNet-Menu /* Tier 1 */
+{
+	left: 30px;
+	top: 0px;
+	width: 600px;
+	display: block;
+}
+
+.CssAdapterMenu ul.AspNet-Menu ul /* Tier 2 */
+{
+	/*width: 6em;*/
+	width: 100px;
+	top: 100%;
+	left: 0px;
+	background-color: Red;
+	text-align: left;
+}
+
+.CssAdapterMenu ul.AspNet-Menu ul ul /* Tier 3+ */
+{
+	top: -0.5em;
+	/*left: 6em;*/
+}
+
+.CssAdapterMenu li /* all list items */
+{
+	width: 100px;
+	height: 30px;
+	line-height: 14px;
+	text-align: center;
+	background-color:Transparent;
+	/*background: url('images/SKH_Menu_Bar.png') no-repeat center;*/
+	/*color:White;*/
+	font-family:Verdana, Tahoma, Arial;
+	font-size:14px;
+	top: 0px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.CssAdapterMenu li:hover, .CssAdapterMenu li.AspNet-Menu-Hover
+{
+	background: url('images/SKH_Menu_Selected_33.png') no-repeat center;
+	color: White;
+}
+
+.CssAdapterMenu a, /* all anchors and spans (nodes with no link) */ .CssAdapterMenu span
+{
+	color: White;
+	padding: 4px 0px 4px 0px;
+	background: transparent;
+}
+
+.CssAdapterMenu li.AspNet-Menu-Leaf a, /* leaves */ .CssAdapterMenu li.AspNet-Menu-Leaf span
+{
+	background-image: none !important;
+}
+
+.CssAdapterMenu li:hover a, /* hovered text */ .CssAdapterMenu li:hover span, .CssAdapterMenu li.AspNet-Menu-Hover a, .CssAdapterMenu li.AspNet-Menu-Hover span, .CssAdapterMenu li:hover li:hover a, .CssAdapterMenu li:hover li:hover span, .CssAdapterMenu li.AspNet-Menu-Hover li.AspNet-Menu-Hover a, .CssAdapterMenu li.AspNet-Menu-Hover li.AspNet-Menu-Hover span, .CssAdapterMenu li:hover li:hover li:hover a, .CssAdapterMenu li:hover li:hover li:hover span, .CssAdapterMenu li.AspNet-Menu-Hover li.AspNet-Menu-Hover li.AspNet-Menu-Hover a, .CssAdapterMenu li.AspNet-Menu-Hover li.AspNet-Menu-Hover li.AspNet-Menu-Hover span
+{
+	color: White;
+	/*background: transparent url(images/SKH_Menu_Selected.png) right center no-repeat;*/
+}
+
+.CssAdapterMenu li:hover li a, /* the tier above this one is hovered */ .CssAdapterMenu li:hover li span, .CssAdapterMenu li.AspNet-Menu-Hover li a, .CssAdapterMenu li.AspNet-Menu-Hover li span, .CssAdapterMenu li:hover li:hover li a, .CssAdapterMenu li:hover li:hover li span, .CssAdapterMenu li.AspNet-Menu-Hover li.AspNet-Menu-Hover li a, .CssAdapterMenu li.AspNet-Menu-Hover li.AspNet-Menu-Hover li span
+{
+	color: White;
+	/*background: transparent url(images/SKH_Menu_Selected.png) right center no-repeat;*/
+}
+
+.CssAdapterMenu .AspNet-Menu-Selected /* this tier is selected */
+{
+	background: url('images/SKH_Menu_Selected_33.png') no-repeat center;
+	color:White;
+	font-weight: bold;
+}
+
+.CssAdapterMenu .AspNet-Menu-ChildSelected /* a tier below this one is selected */
+{
+	
+}
+
+.CssAdapterMenu .AspNet-Menu-ParentSelected /* a tier above this one is selected */
+{
+	font-weight: normal;
+}
+
+#EntertainmentMessage
+{
+	padding-top: 2em;
+	clear: both;
+}

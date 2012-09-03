@@ -1,0 +1,124 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Über mich | Schwyzer Kunsthandwerk
+</title><link href="CSS/StyleSheet.css" rel="stylesheet" type="text/css" /><link href="CSS/Menu.css" rel="stylesheet" type="text/css" /><link href="CSS/CSSMenu.css" rel="stylesheet" type="text/css" /><link rel="SHORTCUT ICON" href="favicon.ico" /><style type="text/css">
+	/* <![CDATA[ */
+	#CssAdapterSampleMenu img.icon { border-style:none;vertical-align:middle; }
+	#CssAdapterSampleMenu img.separator { border-style:none;display:block; }
+	#CssAdapterSampleMenu img.horizontal-separator { border-style:none;vertical-align:middle; }
+	#CssAdapterSampleMenu ul { list-style:none;margin:0;padding:0;width:auto; }
+	#CssAdapterSampleMenu ul.dynamic { z-index:1; }
+	#CssAdapterSampleMenu a { text-decoration:none;white-space:nowrap;display:block; }
+	#CssAdapterSampleMenu a.static { padding-left:0.15em;padding-right:0.15em; }
+	#CssAdapterSampleMenu a.popout { background-image:url("WebResource-14913.axd");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+	/* ]]> */
+</style></head>
+<body>
+    <form method="post" action="/Über mich.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkxMzI0MzY4Mg9kFgJmD2QWAgIDEGRkFgQCARA8KwANAgAPFgIeC18hRGF0YUJvdW5kZ2QMFCsABgUTMDowLDA6MSwwOjIsMDozLDA6NBQrAAIWDh4EVGV4dAUESG9tZR4FVmFsdWUFBEhvbWUeC05hdmlnYXRlVXJsBQt+L0hvbWUuYXNweB4HRW5hYmxlZGceClNlbGVjdGFibGVnHghEYXRhUGF0aAUkM2NjM2JjMmYtOTdhMS00NjgzLWI3MTUtZDUxMWQ2MWNmZTI4HglEYXRhQm91bmRnZBQrAAIWDh8BBQhQcm9kdWt0ZR8CBQhQcm9kdWt0ZR8DBQ9+L1Byb2R1a3RlLmFzcHgfBGcfBWcfBgUkZGYyOGNiMzYtNmVkMi00OWRiLWFkZTQtY2FjMDg1YWMwNzUzHwdnFCsABAULMDowLDA6MSwwOjIUKwACFg4fAQUFSGFzZW4fAgUFSGFzZW4fAwUMfi9IYXNlbi5hc3B4HwRnHwVnHwYFJGI5ZTExYTMxLWY3OGEtNDdjNy1iZmYyLTZhMWJkZDhiOTkwZh8HZ2QUKwACFg4fAQUFRW5nZWwfAgUFRW5nZWwfAwUMfi9FbmdlbC5hc3B4HwRnHwVnHwYFJDczZjM3ZDVkLWQ2OTMtNDk5NS1iNTM4LTFiZTcwZTdhMmU2Zh8HZ2QUKwACFg4fAQUHSHVlaG5lch8CBQdIdWVobmVyHwMFDn4vSHVlaG5lci5hc3B4HwRnHwVnHwYFJGI5YmUwNDg1LTMwOTUtNGE1OC1hZmQyLWY0YjY2YTExMGU2Nh8HZ2QUKwACFhAfAQUKw5xiZXIgbWljaB8CBQrDnGJlciBtaWNoHwMFEX4vw5xiZXIgbWljaC5hc3B4HwRnHwVnHwYFJGU3MGRlZWMxLWU2ZDItNDBmNi05ODdmLTFmYzM1ZGVkZWY5YR8HZx4IU2VsZWN0ZWRnZBQrAAIWDh8BBQNBR0IfAgUDQUdCHwMFCn4vQUdCLmFzcHgfBGcfBWcfBgUkNTc4MGQ1NzItNTAyMi00YzNjLWE0NzAtZWI5ZmNjNGNlOWFjHwdnZBQrAAIWDh8BBQdLb250YWt0HwIFB0tvbnRha3QfAwUOfi9Lb250YWt0LmFzcHgfBGcfBWcfBgUkMDA0YmFmZWUtMjk1MS00ODVlLTg3MjAtODRkNzZlMWEzMGY5HwdnZGRkAgUPZBYCAgMPZBYGZg8PFgIfAQWoBg0KICAgIDxkaXYgaWQ9ImFib3V0bWVsZWZ0IiBjbGFzcz0iYWJvdXRtZWxlZnQiPjxpbWcgc3JjPSJodHRwOi8vd3d3LnNjaHd5emVyLWt1bnN0aGFuZHdlcmsuY2gvQ1NTL2ltYWdlcy9NaWNoYWVsLnBuZyIgYWx0PSJNaWNoYWVsIEsmdXVtbDtuZyIgLz48L2Rpdj4NCiAgICA8ZGl2IGlkPSJhYm91dG1lcmlnaHQiIGNsYXNzPSJhYm91dG1lcmlnaHQiPg0KICAgIDxwPkd1dGVuIFRhZzwvcD4NCiAgICA8cD5JY2ggYmluIE1pY2hhZWwgSyZ1dW1sO25nLCBTY2hsb3NzZXIgYXVzIDxhIGhyZWY9Imh0dHA6Ly9tYXBzLmdvb2dsZS5jaC9tYXBzP2Y9cSZhbXA7aGw9ZGUmYW1wO2dlb2NvZGU9JmFtcDt0aW1lPSZhbXA7ZGF0ZT0mYW1wO3R0eXBlPSZhbXA7cT1zaWVibmVuLCtzdGFsZGVuc3RyYXNzZSsyNCZhbXA7c2xsPTQ2LjM2MjA5Myw5LjAzNjI1NSZhbXA7c3Nwbj00LjYwMTg2NCw4Ljc3ODA3NiZhbXA7aWU9VVRGOCZhbXA7ej0xNiZhbXA7aXdsb2M9YWRkciZhbXA7b209MSI+U2llYm5lbjwvYT4gKFNaKS48YnIgLz5UYWcgdCZhdW1sO2dsaWNoIGhhYmUgaWNoIGJlcnVmbGljaCBtaXQgZGl2ZXJzZW4gTWV0YWxsc29ydGVuIHp1IHR1bi4gRGllcyBicmFjaHRlIG1pY2ggYXVmIGRpZSBJZGVlLCBFaXNlbiBhdWNoIGVpbm1hbCBhbmRlcnMgZWluenVzZXR6ZW4uIDxiciAvPlNlaXQgZ3V0IDIgSmFocmVuIHN0ZWxsZSBpY2ggaW4gbWVpbmVyIEZyZWl6ZWl0IGRla29yYXRpdmUgU3RlaW5maWd1cmVuIGF1cyByZWdpb25hbGVuIFN0ZWluc29ydGVuIHVuZCByb2hlbSBFaXNlbiBoZXIuPC9wPg0KICAgIDwvZGl2Pg0KICBkZAIBDxYCHglpbm5lcmh0bWwFJQ0KICAgIDxkaXYgY2xhc3M9ImNvbnRlbnRmb290ZXIiPg0KICBkAgIPFgIfCQUQDQogICAgPC9kaXY+DQogIGQYAQUaY3RsMDAkQ3NzQWRhcHRlclNhbXBsZU1lbnUPD2QFCsOcYmVyIG1pY2hkWaYGEkxf+rkDGgj+O4B2uON+xDK6fvYVcGUutRLn3/w=" />
+</div>
+
+
+<script src="WebResource-26114.axd" type="text/javascript"></script>
+<script src="WebResource-47015.axd" type="text/javascript"></script><link href="WebResource-23710.axd" type="text/css" rel="stylesheet"></link><link href="WebResource-5537.axd" type="text/css" rel="stylesheet"></link>
+<script src="ScriptResource-33371.axd" type="text/javascript"></script>
+<script src="ScriptResource-25869.axd" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+        
+        
+    <div class="body" id="body">
+    <div id="header"></div>
+    <div id="menu">
+        
+<div class="CssAdapterMenu" id="CssAdapterSampleMenu">
+	<div class="AspNet-Menu-Horizontal">
+			<ul class="AspNet-Menu">
+				<li class="AspNet-Menu-Leaf">
+					<a href="Home.aspx" class="AspNet-Menu-Link">
+						Home</a>
+				</li>
+				<li class="AspNet-Menu-WithChildren">
+					<a href="Produkte.aspx" class="AspNet-Menu-Link">
+						Produkte</a>
+					<ul>
+						<li class="AspNet-Menu-Leaf">
+							<a href="Hasen.aspx" class="AspNet-Menu-Link">
+								Hasen</a>
+						</li>
+						<li class="AspNet-Menu-Leaf">
+							<a href="Engel.aspx" class="AspNet-Menu-Link">
+								Engel</a>
+						</li>
+						<li class="AspNet-Menu-Leaf">
+							<a href="Huehner.aspx" class="AspNet-Menu-Link">
+								Huehner</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-Menu-Leaf  AspNet-Menu-Selected">
+					<a href="%C3%9Cber%20mich.aspx" class="AspNet-Menu-Link  AspNet-Menu-Selected">
+						Über mich</a>
+				</li>
+				<li class="AspNet-Menu-Leaf">
+					<a href="AGB.aspx" class="AspNet-Menu-Link">
+						AGB</a>
+				</li>
+				<li class="AspNet-Menu-Leaf">
+					<a href="Kontakt.aspx" class="AspNet-Menu-Link">
+						Kontakt</a>
+				</li>
+			</ul>
+
+	</div>
+</div>      
+        
+    </div>
+    <div id="outercontent">
+    <div id="content">
+        
+    
+      
+          
+<span>
+    <div id="aboutmeleft" class="aboutmeleft"><img src="CSS/images/Michael.png" alt="Michael K&uuml;ng" /></div>
+    <div id="aboutmeright" class="aboutmeright">
+    <p>Guten Tag</p>
+    <p>Ich bin Michael K&uuml;ng, Schlosser aus <a href="http://maps.google.ch/maps?f=q&hl=de&geocode=&time=&date=&ttype=&q=siebnen,+staldenstrasse+24&sll=46.362093,9.036255&sspn=4.601864,8.778076&ie=UTF8&z=16&iwloc=addr&om=1">Siebnen</a> (SZ).<br />Tag t&auml;glich habe ich beruflich mit diversen Metallsorten zu tun. Dies brachte mich auf die Idee, Eisen auch einmal anders einzusetzen. <br />Seit gut 2 Jahren stelle ich in meiner Freizeit dekorative Steinfiguren aus regionalen Steinsorten und rohem Eisen her.</p>
+    </div>
+  </span><span>
+    <div class="contentfooter">
+  </span><span>
+    </div>
+  </span>
+
+
+    </div></div>
+    <div id="footer"></div>
+    </div>
+    
+<script type='text/javascript'>new Sys.WebForms.Menu({ element: 'CssAdapterSampleMenu', disappearAfter: 500, orientation: 'horizontal', tabIndex: 0, disabled: false });</script></form>
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-4050995-3");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+    </script>
+</body>
+</html>
+
+<!-- Localized -->

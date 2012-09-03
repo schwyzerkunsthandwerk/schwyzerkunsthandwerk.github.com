@@ -1,0 +1,223 @@
+﻿*
+{
+	margin-top: 0px;
+	color: Black;
+	font-style: normal;
+}
+body 
+{
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	background-color: White;
+}
+#body
+{
+	width:860px;
+	height: auto;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+#header
+{
+	width: 860px;
+	height: 250px;
+	margin: 0px auto 0px auto;
+	background: #FFFFFF url(images/SKH_Header.png) no-repeat center top;
+}
+#menu
+{
+	width: 860px;
+	height: 30px;
+	background: #FFFFFF url(images/SKH_Menu_Bar.png) no-repeat center top;
+	text-align: left;
+}
+#outercontent
+{
+	width: 860px;
+	height: auto;
+	margin: 0px auto 0px auto;
+	background: #FFFFFF url(images/SKH_Background.png) repeat-y center top;
+}
+#content
+{
+	width: 740px;
+	height: auto;
+	text-align: left;
+	margin: 0px auto 0px auto;
+	padding: 30px 0px 30px 0px;
+}
+#footer
+{
+	clear: both;
+	width: 860px;
+	height: 60px;
+	margin: 0xp 0px 0px 0px;
+	background: #FFFFFF url(images/SKH_Footer.png) no-repeat center top;
+}
+.ordercontent
+{
+	width: 740px;
+	height: auto;
+	text-align: center;
+	margin: 0px auto 0px auto;
+}
+.timecontent
+{
+	width: 740px;
+	height: auto;
+	margin: 0px auto 0px auto;
+	clear: both;
+}
+.timeitem1
+{
+	width: 238px;
+	height: auto;
+	left: 0px;
+	float: left;
+	border: solid 1px red;
+}
+.timeitem2
+{
+	width: 238px;
+	height: auto;
+	margin: 0px 1px 0px 1px;
+	border: solid 1px red;
+	float: left;
+}
+.timeitem3
+{
+	width: 238px;
+	height: auto;
+	float: left;
+	margin: 0px 0px 0px auto;
+	border: solid 1px red;
+}
+.timeitemheader
+{
+	margin: 0px;
+	width: 228px;
+	height: 22px;
+	text-align: left;
+	border-bottom: solid 1px red;
+	padding-left: 10px;
+	padding-top: 8px;
+	color: Red;
+}
+.timeitemcontent
+{
+	margin: 10px 0px 10px 0px;
+	text-align: left;
+	width: 238px;
+	height: auto;
+}
+.timeitemcontenttext
+{
+	width: 218px;
+	height: auto;
+	margin: 0px 10px 10px 10px;
+	text-align: left;
+}
+.timeitemcontenttextitem
+{
+	width: 218px;
+	height: auto;
+	text-align: left;
+	margin: 5px 0px 0px 0px;
+}
+.timeitemcontenttextitemleft
+{
+	width: 70px;
+	height: auto;
+	text-align: left;
+	margin: 0px 0px 0px 0px;
+	float: left;
+}
+.timeitemcontenttextitemright
+{
+	width: 140px;
+	height: auto;
+	text-align: left;
+	margin: 0px 0px 0px 0px;
+	float: left;
+}
+.timeitemfooter
+{
+	margin: 0px 0px 0px 0px;
+	width: 228px;
+	height: 27px;
+	padding-top: 3px;
+	text-align: left;
+	padding-left: 10px;
+	border-top: solid 1px red;
+	clear: both;
+}
+
+.contentfooter
+{
+	clear: both;
+	width: 740px;
+	height: 1px;
+}
+.personal
+{
+	margin: 30px auto 0px 10px;
+}
+.personaltextboxclass
+{
+	width: 250px;
+}
+.aboutmeleft
+{
+	margin: 0px 0px 0px 0px;
+	width: 170px;
+	height: 230px;
+	float: left;
+}
+.aboutmeright
+{
+	margin: 35px auto 0px auto;
+	width: 560px;
+	height: auto;
+	float: left;
+}
+.aboutmefooter
+{
+	clear:both;
+	width: 1px;
+	height: 1px;
+}
+.agb
+{
+	margin: 10px 10px 10px 10px;
+	text-align: left;
+}
+.ButtonClass
+{
+	margin: 0px 10px;
+}
+.RadioButtonClass
+{
+	font-family: Verdana, Tahoma;
+	font-size: 12px;
+}
+h3
+{
+	font-size: 14px;
+	color: red;
+	font-family: Verdana, Tahoma;
+	font-weight: normal;
+}
+h4
+{
+	font-size: 12px;
+	color: red;
+	font-family: Verdana, Tahoma;
+	font-weight: normal;
+}
+p
+{
+	font-size: 12px;
+	color: Black;
+	font-family: Verdana, Tahoma;
+	font-weight: normal;
+}
